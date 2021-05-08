@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "smart",
+    "password": "Iam100%smart",
+    "database": "smart_trust",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "smart",
+    "password": "Iam100%smart",
+    "database": "smart_trust",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "smart",
+    "password": "Iam100%smart",
+    "database": "smart_trust",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
